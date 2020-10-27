@@ -1,4 +1,4 @@
-# Bootcamp GoStack Challenge - NodeJS concepts :green_book:
+# GoStack Challenge - NodeJS concepts :green_book:
 
 This repository was created to solve a Bootcamp GoStack challenge.
 
